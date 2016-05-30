@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tracker>
+	<datafile name="c:\\myXMLFile.xml"/>
+	<issue-options>
+		<issue name='printer problem'/>
+		<issue name='Wireless'/>
+		<issue name='Application Support'/>
+		<issue name='Labnet password'/>
+		<issue name='Modem Accounts'/>		
+	</issue-options>
+</tracker>

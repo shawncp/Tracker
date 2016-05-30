@@ -1,0 +1,34 @@
+
+Things I need to do for Tracker:
+
+**Link to a webpage when computer is clicked
+** Make sure button turns off when issue was addressed
+Add some alert for closing procedures
+** Strip our Commons dependence - make sure it can work with multiple departments
+fix timestamping when a computer ticket is closed.
+Display the issue a client is having
+** Add  department and client question fields to the DB
+
+Other things that have been done July 2008:
+
+Client help screen turns red and flashes when active
+When you click the to turn off the help button the caution image also stops
+
+
+
+
+Nice to haves:
+
+Integrate yacker into tracker
+sort tracking issues by which one are used most
+create a schema file for the xml
+
+
+http://thecommons.mun.ca/portal/ONEPAGE_test/help/helpscreen.php?hostnames=bear04
+
+
+
+Things Simon has to do:
+New Graphic for Tracker
+Image working for help location
+Display Message & Computer Name

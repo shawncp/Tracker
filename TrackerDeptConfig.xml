@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- This file is used to redirect the Labnet Tracker application to the appropriate xml config file -->
+<tracker>
+	<dept-options>
+		<dept name='comp-support' url= 'http://www.cs.mun.ca/~thecommons/configfiles/TrackerConfig.xml'/>
+		<dept name='info-research' url= 'http://www.cs.mun.ca/~thecommons/configfiles/TrackerConfig.xml'/>	
+	</dept-options>
+</tracker>
