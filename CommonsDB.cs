@@ -12,8 +12,8 @@ namespace CommonsTracker
 	/// </summary>
 	public class CommonsDB
 	{
-		//Connection string for MyODBC 3.51
-		public const string MyConString = "DRIVER={MySQL ODBC 3.51 Driver};" +
+		//Connection string for MyODBC 5.3
+		public const string MyConString = "DRIVER={MySQL ODBC 5.3 Unicode Driver};" +
 			"SERVER=stretch.cs.mun.ca;" +
 			"DATABASE=commons;" +
 			"UID=shawncp;" +

@@ -1,0 +1,14 @@
+C:\Users\Richard\Source\Repos\Tracker\bin\Debug\CommonsTracker.exe.config
+C:\Users\Richard\Source\Repos\Tracker\obj\Debug\CommonsTracker.exe
+C:\Users\Richard\Source\Repos\Tracker\obj\Debug\CommonsTracker.pdb
+C:\Users\Richard\Source\Repos\Tracker\bin\Debug\CommonsTracker.exe
+C:\Users\Richard\Source\Repos\Tracker\bin\Debug\CommonsTracker.pdb
+C:\Users\Richard\Source\Repos\Tracker\bin\Debug\BalloonToolTip.dll
+C:\Users\Richard\Source\Repos\Tracker\bin\Debug\Microsoft.Data.Odbc.dll
+C:\Users\Richard\Source\Repos\Tracker\obj\Debug\CommonTracker.csprojResolveAssemblyReference.cache
+C:\Users\Richard\Source\Repos\Tracker\obj\Debug\CommonsTracker.CloseProcedure.resources
+C:\Users\Richard\Source\Repos\Tracker\obj\Debug\CommonsTracker.Form1.resources
+C:\Users\Richard\Source\Repos\Tracker\obj\Debug\CommonsTracker.frmPassword.resources
+C:\Users\Richard\Source\Repos\Tracker\obj\Debug\CommonsTracker.PastData.resources
+C:\Users\Richard\Source\Repos\Tracker\obj\Debug\CommonsTracker.Properties.Resources.resources
+C:\Users\Richard\Source\Repos\Tracker\obj\Debug\CommonTracker.csproj.GenerateResource.Cache
